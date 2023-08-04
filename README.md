@@ -77,8 +77,8 @@ In order to run this project you need to have the following in local computer:
 Clone this repository to your desired folder:
 
 - [ ] Open terminal
-- [ ] git clone https://github.com/BB-Simon/hello-rails-react.git
-- [ ] cd budget-app
+- [ ] git clone https://github.com/mudasiri/hello-rails-react.git
+- [ ] cd rails-react-app
   
 
 ### Install
@@ -106,11 +106,11 @@ To run the webpack to build the client, run the following command:
 
 ## 👤 Author <a name="authors"></a>
 
-👤 **BB Simon**
+👤 **Mudasir Issah**
 
-- GitHub: [@githubhandle](https://github.com/BB-Simon) 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bb-simon/)
-- Twitter: [@twitterhandle](https://twitter.com/bb_s_imon) 
+- GitHub: [@githubhandle](https://github.com/mudasiri) 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mudasiri/)
+- Twitter: [@twitterhandle](https://twitter.com/mudasiri) 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
