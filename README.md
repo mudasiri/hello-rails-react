@@ -129,7 +129,7 @@ To run the webpack to build the client, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/BB-Simon/hello-rails-react.git/issues).
+Feel free to check the [issues page](https://github.com/mudasiri/hello-rails-react.git/issues).
 
 
 <!-- SUPPORT -->
